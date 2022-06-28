@@ -12,6 +12,8 @@ int im_pro(bool t){
 
 me->student();
 
+me->from("Philippines");
+
 me->age16();
 
 myProgr_lang lang;
