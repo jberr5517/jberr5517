@@ -1,12 +1,23 @@
 int im_pro(bool t){
-ㅤif(t){
-    say("Lie but soon but not sure");
-ㅤ}
+
+
+
+      if(t){
+       
+  say("Lie but soon but not sure");
+ㅤ
+      };
+
 }
+
 me->student();
+
 me->age16();
+
 myProgr_lang lang;
+
 lang="py AND cxx";
+
 im_pro(true);
 
 <!---
